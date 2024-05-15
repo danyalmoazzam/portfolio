@@ -30,7 +30,7 @@ export function Hero() {
           Danyal Moazzam
         </h1>
         <Button
-          variant='ghost'
+          variant='outline'
           size={null}
           className='hover:dark:text-black hover:bg-neutral-100 font-mono font-bold text-xs px-3 py-1 rounded-full hover:scale-105 transition-all ease-in-out duration-300'
           asChild
