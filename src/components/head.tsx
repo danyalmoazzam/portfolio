@@ -19,7 +19,7 @@ export function Head({ metadata }: { metadata: Metadata }) {
       <meta property='og:url' content='https://danyal.vercel.app' />
       <meta
         property='og:image'
-        content='https://github.com/danyalmoazzam.png'
+        content='https://cv.danyal.vercel.app'
       />
       <meta property='og:image:width' content='1200' />
       <meta property='og:image:height' content='630' />
