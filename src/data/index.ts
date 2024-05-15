@@ -224,7 +224,7 @@ export const PROJECTS = [
       TAGS.JAVASCRIPT,
       TAGS.REACT,
       TAGS.TAILWIND,
-      TAGS.VITE,
+      TAGS.VITE
     ],
     description:
     'Ochi Design Website Clone made with React.js, Tailwind, GSAP.',
@@ -239,7 +239,7 @@ export const PROJECTS = [
     tags: [
       TAGS.TYPESCRIPT,
       TAGS.CSS,
-      TAGS.HTML,
+      TAGS.HTML
     ],
     description: 'World Map made with Three.js.',
     link: {
@@ -326,7 +326,7 @@ export const PROJECTS = [
     tags: [
       TAGS.HTML,
       TAGS.CSS,
-      TAGS.JAVASCRIPT,
+      TAGS.JAVASCRIPT
     ],
     description:
       'NFT Store Dashboard made with HTML, CSS, and Javascript.',
@@ -341,7 +341,7 @@ export const PROJECTS = [
     tags: [
       TAGS.CSS,
       TAGS.HTML,
-      TAGS.JAVASCRIPT,
+      TAGS.JAVASCRIPT
     ],
     description: 'An Animated Login Site made with HTML, CSS, and Javascript.',
     link: {
