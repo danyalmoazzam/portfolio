@@ -54,7 +54,7 @@ export const LINKS = [
   },
   {
     title: 'Resume',
-    url: 'https://cv.emapeire.xyz',
+    url: 'https://danyalcv.vercel.app/',
     icon: FileTextIcon
   },
   {
