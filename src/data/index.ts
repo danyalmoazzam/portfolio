@@ -31,7 +31,7 @@ export const AVATAR = {
 }
 
 export const ABOUT = {
-  title: `🖥️ Frontend Engineer, 👨‍💻 Full Stack Developer and 🤖 AI Research Enthusiast.
+  title: `🖥️ Frontend Engineer, 👨‍💻 Jr. Full Stack Developer and
   Influenced by 🎴Designs.📍Based in Lahore, Pakistan 🇵🇰`,
   description: `• Passionate about creating innovative tech solutions for social impact and in  making a positive difference in the world with my work. The web can sometimes be indistinguishable from magic, but I have the knowledge and patience required to make just about anything.`
 }
