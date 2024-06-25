@@ -10,8 +10,8 @@ export function Header() {
   const pathname = usePathname()
 
   return (
-    <header className='fixed top-0 z-10 flex items-center justify-center w-full mx-auto bg-white dark:bg-black border-b py-2'>
-      <div className='flex items-center justify-between w-full md:max-w-3xl mx-4'>
+    <header className='fixed top-0 z-10 flex items-center justify-around w-full bg-white dark:bg-black border-b py-2'>
+      <div className='flex items-center justify-center gap-2 w-full md:max-w-3xl'>
         <nav className='flex justify-center items-center'>
           {links.map((link) => (
             <Link

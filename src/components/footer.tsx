@@ -5,7 +5,7 @@ export function Footer() {
   const year = new Date().getFullYear()
 
   return (
-    <footer className='flex justify-center items-center w-full mx-auto md:max-w-3xl'>
+    <footer className='flex text-center -mb-1 justify-center items-center w-full mx-auto md:max-w-3xl'>
       <div className='w-full mx-2 md:flex md:items-center md:justify-between text-sm font-medium text-neutral-700 dark:text-neutral-300'>
         <p>
           © {year}
@@ -18,11 +18,12 @@ export function Footer() {
           >
             Danyal Moazzam
           </a>
+          <br className='md:hidden' />
           <span className='ms-2 me-2'>—</span>
           All Rights Reserved.
         </p>
 
-        <div className='flex flex-wrap items-center pt-2 md:pt-0'>
+        <div className='flex justify-center items-center pt-2 md:pt-0'>
           {links.map((link) => (
             <div key={link.label}>
               <Link
