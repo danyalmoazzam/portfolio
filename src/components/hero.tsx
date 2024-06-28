@@ -31,7 +31,7 @@ export function Hero() {
         </h1>
       </div>
 
-      <div className="flex flex-col font-mono gap-4 dark:text-neutral-200 text-neutral-800 text-pretty text-center">
+      <div className="flex flex-col font-mono font-semibold gap-4 dark:text-neutral-200 text-neutral-800 text-pretty text-center">
         <h2>{about.title}</h2>
         <h3>{about.description}</h3>
       </div>
